@@ -1,0 +1,18 @@
+{
+  "user": [
+    {
+      "name": "Sourav Rai",
+      "role": "Employee",
+      "email": "Souravrai@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "Saroj Rai",
+      "role": "ower",
+      "email": "sarojrai@gmail.com",
+      "password": "123456",
+      "id": 2
+    }
+  ]
+}
